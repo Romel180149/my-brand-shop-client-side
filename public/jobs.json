@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/7JCkb7K/apple2.jpg",
+    "name": "Wireless Bluetooth Headphones",
+    "brandName": "Apple",
+    "type": "headphone",
+    "price": 49.99,
+    "shortDescription": "Immerse yourself in high-quality sound with these wireless Bluetooth headphones.",
+    "rating": 4.5,
+    "button": "Add"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/7NkBcqp/samsung.jpg",
+    "name": "Samsung Phone",
+    "brandName": "TechVision",
+    "type": "TV",
+    "price": 899.99,
+    "shortDescription": "Experience stunning visuals with our Ultra HD Smart LED TV, perfect for home entertainment.",
+    "rating": 4.8,
+    "button": "Add"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/T2wk2sk/sony.jpg",
+    "name": "Sony Phone",
+    "brandName": "SpeedX",
+    "type": "computer",
+    "price": 1299.99,
+    "shortDescription": "Dominate the gaming world with our high-performance gaming laptop, equipped with the latest graphics card and processor.",
+    "rating": 4.7,
+    "button": "Add"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/0DLkrDW/google.jpg",
+    "name": "Google",
+    "brandName": "PowerMax",
+    "type": "accessory",
+    "price": 29.99,
+    "shortDescription": "Effortlessly charge your compatible devices with our sleek and efficient wireless charging pad.",
+    "rating": 4.2,
+    "button": "Add"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/hRSCwJ9/intel.png",
+    "name": "Intel",
+    "brandName": "TechMasters",
+    "type": "phone",
+    "price": 699.99,
+    "shortDescription": "Stay connected with our latest smartphone offering a powerful camera and long-lasting battery.",
+    "rating": 4.6,
+    "button": "Add"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/VQYCN4z/mouse.jpg",
+    "name": "Wireless Computer Mouse",
+    "brandName": "ErgoTech",
+    "type": "computer accessory",
+    "price": 19.99,
+    "shortDescription": "Enhance your productivity with our comfortable and responsive wireless computer mouse.",
+    "rating": 4.4,
+    "button": "Add"
+  }
+]
