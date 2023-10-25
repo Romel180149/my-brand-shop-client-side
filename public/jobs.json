@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "img": "https://i.ibb.co/7JCkb7K/apple2.jpg",
-    "name": "Wireless Bluetooth Headphones",
+    "img": "https://i.ibb.co/WtB06RT/iphone-13-mini-01.jpg",
+    "name": "iPhone 13 mini",
     "brandName": "Apple",
     "type": "headphone",
     "price": 49.99,
-    "shortDescription": "Immerse yourself in high-quality sound with these wireless Bluetooth headphones.",
+    "shortDescription": "A compact powerhouse featuring advanced camera capabilities and a vibrant Super Retina XDR display, delivering exceptional performance in a pocket-friendly design.",
     "rating": 4.5,
     "button": "Add"
   },

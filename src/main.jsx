@@ -11,6 +11,7 @@ import AuthProvider from "./Hook/AuthProvider";
 import Login from "./components/Authentication/Login/Login";
 import Register from "./components/Authentication/Register/Register";
 import PrivateRoute from "./utility/PrivateRoute";
+import AddProductPage from "./AddProductPage/AddProductPage";
 
 const router = createBrowserRouter([
   {
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
         path: "/register",
         element: <Register></Register>,
       },
+      {
+        path:"/addproduct",
+        element:<AddProductPage></AddProductPage>,
+      }
     ],
   },
 ]);
