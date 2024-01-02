@@ -58,3 +58,4 @@ const CartCard = ({product,products,setProducts}) => {
 };
 
 export default CartCard;
+// card added 
