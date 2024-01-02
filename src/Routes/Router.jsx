@@ -53,7 +53,7 @@ const Router = createBrowserRouter([
             {
                 path:'/cart',
                 element:<PrivateRoute><Cart></Cart></PrivateRoute>,
-                loader:()=>fetch(`https://b8a10-brandshop-server-side-romel180149.vercel.app/products/cart`)
+                loader:()=>fetch(`https://b8a10-brandshop-server-side-romel180149.vercel.app/cart`)
             },
         ]
     }
