@@ -4,8 +4,13 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: "class",
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        raleway: ['Raleway', 'sans-serif'],
+      },
+    },
   },
   plugins: [require("daisyui")],
 }
