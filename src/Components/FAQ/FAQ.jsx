@@ -46,3 +46,4 @@ const FAQ = () => {
 };
 
 export default FAQ;
+// faq added
